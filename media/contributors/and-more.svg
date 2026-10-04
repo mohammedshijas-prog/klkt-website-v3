@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 756 568" width="756" height="568" font-family="Geist, -apple-system, 'SF Pro Text', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f1eaff"/><stop offset="1" stop-color="#ddd0ff"/></linearGradient><filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#2a1a5e" flood-opacity=".16"/></filter></defs>
+<rect width="756" height="568" fill="url(#g)"/>
+<g filter="url(#sh)"><path d="M178 214h400a26 26 0 0 1 26 26v88a26 26 0 0 1-26 26H262l-44 36v-36h-40a26 26 0 0 1-26-26v-88a26 26 0 0 1 26-26z" fill="#fff"/></g>
+<circle cx="214" cy="284" r="18" fill="#7a3cf5"/><path d="M206 284l6 6 10-11" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="246" y="292" font-size="24" font-weight="600" fill="#0b1215">New tasks added over time</text></svg>

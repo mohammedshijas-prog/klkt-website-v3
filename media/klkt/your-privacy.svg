@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 650" width="650" height="650" font-family="Geist, -apple-system, 'SF Pro Text', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f9d9b0"/><stop offset=".55" stop-color="#e7a9b8"/><stop offset="1" stop-color="#8f7fd6"/></linearGradient>
+<filter id="sh" x="-10%" y="-10%" width="120%" height="140%"><feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#3a1d4d" flood-opacity=".22"/></filter></defs>
+<rect width="650" height="650" fill="url(#g)"/>
+<g filter="url(#sh)"><rect x="125" y="215" width="400" height="230" rx="28" fill="#fff"/></g>
+<circle cx="161" cy="257" r="7" fill="#ef4444"/><text x="177" y="264" font-size="19" font-weight="600" fill="#0b1215">Recording</text>
+<rect x="153" y="285" width="344" height="74" rx="16" fill="#f5f5f5"/><text x="325" y="333" font-size="34" font-weight="600" fill="#0b1215" text-anchor="middle">02:14</text>
+<rect x="153" y="375" width="166" height="46" rx="23" fill="#ef4f45"/><text x="236" y="404" font-size="17" font-weight="600" fill="#fff" text-anchor="middle">Delete</text>
+<rect x="331" y="375" width="166" height="46" rx="23" fill="#7a3cf5"/><text x="414" y="404" font-size="17" font-weight="600" fill="#fff" text-anchor="middle">Send</text></svg>

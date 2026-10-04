@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 520" width="768" height="520" font-family="Geist, -apple-system, 'SF Pro Text', 'Segoe UI', Roboto, 'Geeza Pro', Helvetica, Arial, sans-serif">
+<!-- Example values for illustration. -->
+<defs><filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#2a1a5e" flood-opacity=".16"/></filter></defs><g filter="url(#sh)"><rect x="330" y="120" width="300" height="56" rx="22" fill="#7a3cf5"/><rect x="138" y="210" width="440" height="140" rx="22" fill="#fff"/></g>
+<text x="480" y="155" font-size="18" fill="#fff" text-anchor="middle">What should I record next?</text>
+<circle cx="172" cy="246" r="16" fill="#7a3cf5"/><text x="172" y="252" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">N</text>
+<text x="198" y="252" font-size="15" font-weight="600" fill="#6b7280">Noor</text>
+<text x="166" y="292" font-size="18" fill="#0b1215">Restock the shelves in aisle 4.</text>
+<text x="166" y="320" font-size="18" fill="#0b1215">Keep both hands in view.</text></svg>

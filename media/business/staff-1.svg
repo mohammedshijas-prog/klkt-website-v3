@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 520" width="768" height="520" font-family="Geist, -apple-system, 'SF Pro Text', 'Segoe UI', Roboto, 'Geeza Pro', Helvetica, Arial, sans-serif">
+<!-- Example values for illustration. -->
+<defs><filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#2a1a5e" flood-opacity=".16"/></filter></defs><g filter="url(#sh)"><rect x="194" y="130" width="380" height="250" rx="26" fill="#fff"/></g>
+<text x="226" y="186" font-size="15" font-weight="600" fill="#6b7280" letter-spacing="1">TODAY'S SHIFT</text>
+<rect x="414" y="160" width="128" height="36" rx="18" fill="#fee2e2"/><circle cx="436" cy="178" r="6" fill="#dc2626"/><text x="450" y="184" font-size="16" font-weight="600" fill="#b91c1c">Recording</text>
+<text x="226" y="244" font-size="30" font-weight="700" fill="#0b1215">Today's shift</text>
+<text x="226" y="280" font-size="19" fill="#6b7280">During normal work</text>
+<rect x="226" y="316" width="316" height="10" rx="5" fill="#f1ecfd"/><rect x="226" y="316" width="190" height="10" rx="5" fill="#7a3cf5"/></svg>

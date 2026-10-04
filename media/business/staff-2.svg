@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 520" width="768" height="520" font-family="Geist, -apple-system, 'SF Pro Text', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<!-- Example values for illustration. No amounts shown. -->
+<defs><filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#2a1a5e" flood-opacity=".16"/></filter></defs>
+<g filter="url(#sh)"><rect x="194" y="120" width="380" height="280" rx="26" fill="#fff"/></g>
+<text x="226" y="176" font-size="28" font-weight="700" fill="#0b1215">This week</text>
+<line x1="226" y1="202" x2="542" y2="202" stroke="#eef0f3" stroke-width="2"/>
+<circle cx="238" cy="244" r="7" fill="#16a34a"/><text x="256" y="250" font-size="20" fill="#0b1215">Accepted ✓</text>
+<line x1="226" y1="274" x2="542" y2="274" stroke="#f3f4f6" stroke-width="1.5"/>
+<circle cx="238" cy="308" r="7" fill="#eab308"/><text x="256" y="314" font-size="20" fill="#0b1215">In review</text>
+<line x1="226" y1="338" x2="542" y2="338" stroke="#f3f4f6" stroke-width="1.5"/>
+<circle cx="238" cy="372" r="7" fill="#7a3cf5"/><text x="256" y="378" font-size="20" fill="#0b1215">Earned · USD</text>
+</svg>

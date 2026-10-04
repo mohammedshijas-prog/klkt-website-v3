@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 605" width="650" height="605" font-family="Geist, -apple-system, 'SF Pro Text', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<!-- Example values for illustration. -->
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f9d9b0"/><stop offset="0.55" stop-color="#e7a9b8"/><stop offset="1" stop-color="#8f7fd6"/></linearGradient>
+<filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#1e0f4d" flood-opacity=".2"/></filter></defs>
+<rect width="650" height="605" fill="url(#g)"/><g filter="url(#sh)"><rect x="125" y="150" width="400" height="305" rx="26" fill="#fff"/></g>
+<text x="157" y="206" font-size="23" font-weight="700" fill="#0b1215">Your sites</text><line x1="157" y1="230" x2="493" y2="230" stroke="#eef0f3" stroke-width="2"/>
+<text x="157" y="276" font-size="19" fill="#6b7280">Dubai warehouse</text><text x="493" y="276" font-size="19" font-weight="600" fill="#0b1215" text-anchor="end">80 people</text><line x1="157" y1="298" x2="493" y2="298" stroke="#f3f4f6"/><text x="157" y="338" font-size="19" fill="#6b7280">Abu Dhabi hotel</text><text x="493" y="338" font-size="19" font-weight="600" fill="#0b1215" text-anchor="end">45 people</text><line x1="157" y1="360" x2="493" y2="360" stroke="#f3f4f6"/><text x="157" y="404" font-size="19" fill="#6b7280">Contact person</text><text x="493" y="404" font-size="19" font-weight="600" fill="#0b1215" text-anchor="end">One</text></svg>

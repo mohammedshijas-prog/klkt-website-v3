@@ -1,0 +1,193 @@
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	width="1440"
+	height="716"
+	viewBox="400 420 1700 845"
+	fill="none"
+	preserveAspectRatio="xMidYMid slice"
+>
+	<!-- Figma webinar DualColumnHero gradient vectors, cropped to a landscape frame for object-cover. -->
+	<g clip-path="url(#webinarsHeroClip)">
+		<!-- Cover the full clip/viewBox — the Figma fill rect started ~31px below
+		     the frame top, which left a transparent strip that showed the page bg. -->
+		<rect
+			x="400"
+			y="420"
+			width="1700"
+			height="845"
+			fill="url(#webinarsHeroPaint0)"
+		/>
+		<g filter="url(#webinarsHeroBlur0)">
+			<path
+				d="M2186.87 777.849L441.129 1374.95L289.53 500.427L1994.35 290.908L2186.87 777.849Z"
+				fill="url(#webinarsHeroPaint1)"
+			/>
+		</g>
+		<g filter="url(#webinarsHeroBlur1)">
+			<path
+				d="M2173.9 721.694L478.233 1211.25L520.331 1380.1L1143.25 1279L2132.23 1072.1L2173.9 721.694Z"
+				fill="#3C84D6"
+			/>
+		</g>
+		<g filter="url(#webinarsHeroBlur2)">
+			<path
+				d="M2025.6 1007C1702.55 1164.07 1599.37 1225.9 1588.16 1237.18C1575.2 1263.19 1556.33 1320.22 1584.51 1340.32C1612.69 1360.43 2068.56 1117.27 2292.98 993.171C2338.46 932.34 2348.65 849.943 2025.6 1007Z"
+				fill="#A0AEEC"
+			/>
+		</g>
+		<g filter="url(#webinarsHeroBlur3)">
+			<path
+				d="M650.647 1718.12C392.774 1629.85 718.363 1496.86 913.392 1441.4C874.702 1435.79 925.267 1403.63 1437.05 1319.88C1948.82 1236.14 1944.01 1398.44 1877.63 1490.05C1576.08 1602.85 908.521 1806.38 650.647 1718.12Z"
+				fill="url(#webinarsHeroPaint2)"
+			/>
+		</g>
+	</g>
+	<defs>
+		<clipPath id="webinarsHeroClip">
+			<rect
+				x="400"
+				y="420"
+				width="1700"
+				height="845"
+			/>
+		</clipPath>
+		<filter
+			id="webinarsHeroBlur0"
+			x="26.756"
+			y="28.1344"
+			width="2422.89"
+			height="1609.59"
+			filterUnits="userSpaceOnUse"
+			color-interpolation-filters="sRGB"
+		>
+			<feFlood
+				flood-opacity="0"
+				result="BackgroundImageFix"
+			/>
+			<feBlend
+				mode="normal"
+				in="SourceGraphic"
+				in2="BackgroundImageFix"
+				result="shape"
+			/>
+			<feGaussianBlur
+				stdDeviation="131.387"
+				result="effect1_foregroundBlur"
+			/>
+		</filter>
+		<filter
+			id="webinarsHeroBlur1"
+			x="145.824"
+			y="389.285"
+			width="2360.48"
+			height="1323.23"
+			filterUnits="userSpaceOnUse"
+			color-interpolation-filters="sRGB"
+		>
+			<feFlood
+				flood-opacity="0"
+				result="BackgroundImageFix"
+			/>
+			<feBlend
+				mode="normal"
+				in="SourceGraphic"
+				in2="BackgroundImageFix"
+				result="shape"
+			/>
+			<feGaussianBlur
+				stdDeviation="166.204"
+				result="effect1_foregroundBlur"
+			/>
+		</filter>
+		<filter
+			id="webinarsHeroBlur2"
+			x="1319.86"
+			y="666.467"
+			width="1246.52"
+			height="925.032"
+			filterUnits="userSpaceOnUse"
+			color-interpolation-filters="sRGB"
+		>
+			<feFlood
+				flood-opacity="0"
+				result="BackgroundImageFix"
+			/>
+			<feBlend
+				mode="normal"
+				in="SourceGraphic"
+				in2="BackgroundImageFix"
+				result="shape"
+			/>
+			<feGaussianBlur
+				stdDeviation="125"
+				result="effect1_foregroundBlur"
+			/>
+		</filter>
+		<filter
+			id="webinarsHeroBlur3"
+			x="405.269"
+			y="1146.61"
+			width="1653.71"
+			height="743.103"
+			filterUnits="userSpaceOnUse"
+			color-interpolation-filters="sRGB"
+		>
+			<feFlood
+				flood-opacity="0"
+				result="BackgroundImageFix"
+			/>
+			<feBlend
+				mode="normal"
+				in="SourceGraphic"
+				in2="BackgroundImageFix"
+				result="shape"
+			/>
+			<feGaussianBlur
+				stdDeviation="75"
+				result="effect1_foregroundBlur"
+			/>
+		</filter>
+		<linearGradient
+			id="webinarsHeroPaint0"
+			x1="1244.56"
+			y1="505.705"
+			x2="1244.56"
+			y2="1071.52"
+			gradientUnits="userSpaceOnUse"
+		>
+			<stop stop-color="#6BB1FF" />
+			<stop
+				offset="1"
+				stop-color="#EB8BE7"
+			/>
+		</linearGradient>
+		<linearGradient
+			id="webinarsHeroPaint1"
+			x1="1572.52"
+			y1="1212.54"
+			x2="1188.37"
+			y2="798.943"
+			gradientUnits="userSpaceOnUse"
+		>
+			<stop stop-color="#6BB1FF" />
+			<stop
+				offset="1"
+				stop-color="#175295"
+			/>
+		</linearGradient>
+		<linearGradient
+			id="webinarsHeroPaint2"
+			x1="1268.53"
+			y1="1675.04"
+			x2="1200.57"
+			y2="1340.19"
+			gradientUnits="userSpaceOnUse"
+		>
+			<stop stop-color="#F2F8DE" />
+			<stop
+				offset="1"
+				stop-color="#FFD39D"
+			/>
+		</linearGradient>
+	</defs>
+</svg>

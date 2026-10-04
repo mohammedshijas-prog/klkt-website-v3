@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 520" width="768" height="520" font-family="Geist, -apple-system, 'SF Pro Text', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"><!-- Example value for illustration. --><defs><filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#2a1a5e" flood-opacity=".16"/></filter></defs><g filter="url(#sh)"><rect x="194" y="80" width="380" height="360" rx="26" fill="#fff"/></g>
+<text x="226" y="138" font-size="24" font-weight="700" fill="#0b1215">Enter your workplace code</text>
+<rect x="226" y="166" width="316" height="64" rx="14" fill="#f8f5ff" stroke="#7a3cf5" stroke-width="2"/>
+<text x="384" y="208" font-size="28" font-weight="700" fill="#0b1215" text-anchor="middle" letter-spacing="3">KL-4821</text>
+<rect x="226" y="256" width="316" height="54" rx="12" fill="#0b1215"/><text x="384" y="290" font-size="18" font-weight="600" fill="#fff" text-anchor="middle">Join</text>
+<text x="384" y="352" font-size="16" fill="#6b7280" text-anchor="middle">Taking part is your choice</text></svg>

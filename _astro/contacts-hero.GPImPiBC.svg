@@ -1,0 +1,133 @@
+<svg fill="none" height="721" viewBox="0 0 1392 721" width="1392" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <filter id="a" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="1352.1" width="2458.47"
+        x="-525.55" y="-540.956">
+        <feFlood flood-opacity="0" result="BackgroundImageFix" />
+        <feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape" />
+        <feGaussianBlur result="effect1_foregroundBlur_13153_27440" stdDeviation="131.387" />
+    </filter>
+    <filter id="b" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="1356.1" width="2400.84"
+        x="-434.455" y="-487.062">
+        <feFlood flood-opacity="0" result="BackgroundImageFix" />
+        <feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape" />
+        <feGaussianBlur result="effect1_foregroundBlur_13153_27440" stdDeviation="166.204" />
+    </filter>
+    <filter id="c" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="460.332" width="1149.67"
+        x="-120.698" y="-240.14">
+        <feFlood flood-opacity="0" result="BackgroundImageFix" />
+        <feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape" />
+        <feGaussianBlur result="effect1_foregroundBlur_13153_27440" stdDeviation="62.5" />
+    </filter>
+    <filter id="d" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="1015.83" width="1405.87"
+        x="-33.3883" y="-182.004">
+        <feFlood flood-opacity="0" result="BackgroundImageFix" />
+        <feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape" />
+        <feGaussianBlur result="effect1_foregroundBlur_13153_27440" stdDeviation="75" />
+    </filter>
+    <filter id="e" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="775.38" width="980.313"
+        x="-446.231" y="372.525">
+        <feFlood flood-opacity="0" result="BackgroundImageFix" />
+        <feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape" />
+        <feGaussianBlur result="effect1_foregroundBlur_13153_27440" stdDeviation="75" />
+    </filter>
+    <filter id="f" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="950.326" width="1006.37"
+        x="777.424" y="306.086">
+        <feFlood flood-opacity="0" result="BackgroundImageFix" />
+        <feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape" />
+        <feGaussianBlur result="effect1_foregroundBlur_13153_27440" stdDeviation="75" />
+    </filter>
+    <filter id="g" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="907.023" width="1226.7"
+        x="-362.44" y="434.295">
+        <feFlood flood-opacity="0" result="BackgroundImageFix" />
+        <feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape" />
+        <feGaussianBlur result="effect1_foregroundBlur_13153_27440" stdDeviation="125" />
+    </filter>
+    <filter id="h" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="570.93" width="1013.42"
+        x="-200.549" y="480.055">
+        <feFlood flood-opacity="0" result="BackgroundImageFix" />
+        <feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape" />
+        <feGaussianBlur result="effect1_foregroundBlur_13153_27440" stdDeviation="75" />
+    </filter>
+    <filter id="i" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="570.701" width="1688.85"
+        x="-69.2824" y="446.764">
+        <feFlood flood-opacity="0" result="BackgroundImageFix" />
+        <feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape" />
+        <feGaussianBlur result="effect1_foregroundBlur_13153_27440" stdDeviation="100" />
+    </filter>
+    <linearGradient id="j" gradientUnits="userSpaceOnUse" x1="1296" x2="78.8572" y1="239" y2="458.786">
+        <stop offset="0" stop-color="#1e5ea7" />
+        <stop offset=".360934" stop-color="#4890e3" />
+        <stop offset="1" stop-color="#6bb1ff" />
+    </linearGradient>
+    <linearGradient id="k" gradientUnits="userSpaceOnUse" x1="4.78014" x2="1018" y1="-13.3574" y2="-8.50092">
+        <stop offset="0" stop-color="#6bb1ff" />
+        <stop offset="1" stop-color="#406a99" />
+    </linearGradient>
+    <linearGradient id="l" gradientUnits="userSpaceOnUse" x1="1085.23" x2="613.326" y1="546.075" y2="363.026">
+        <stop offset="0" stop-color="#6bb1ff" />
+        <stop offset="1" stop-color="#3278c8" />
+    </linearGradient>
+    <radialGradient id="m" cx="0" cy="0" gradientTransform="matrix(-10.4275 119.988 -227.776 -21.5224 97.167 549.308)"
+        gradientUnits="userSpaceOnUse" r="1">
+        <stop offset="0" stop-color="#ffb175" />
+        <stop offset="1" stop-color="#fa9fdd" />
+    </radialGradient>
+    <linearGradient id="n" gradientUnits="userSpaceOnUse" x1="1175.09" x2="1389.76" y1="604.301" y2="895.905">
+        <stop offset="0" stop-color="#ffe196" />
+        <stop offset="1" stop-color="#ffb175" />
+    </linearGradient>
+    <clipPath id="o">
+        <path d="m0 0h1392v720.403h-1392z" />
+    </clipPath>
+    <mask id="p" height="1184" maskUnits="userSpaceOnUse" width="1478" x="-43" y="-202">
+        <path d="m-43-202h1478v1184h-1478z" fill="#f6f5f3" />
+    </mask>
+    <g clip-path="url(#o)">
+        <path d="m0 0h1392v720.403h-1392z" fill="#0c2d54" />
+        <g mask="url(#p)">
+            <path d="m-53.9294-228.339h1543.54v1236.51h-1543.54z" fill="#b89ffa" />
+            <g filter="url(#a)">
+                <path d="m1670.15 67.0822-1803.527 481.2898-129.399-625.7533 1750.266-200.8017z" fill="url(#j)" />
+            </g>
+            <g filter="url(#b)">
+                <path d="m1633.98-154.654-1736.026 503.178 47.325 188.107 639.582-97.583 1014.349-206.337z"
+                    fill="#3278c8" />
+            </g>
+            <g filter="url(#c)">
+                <path
+                    d="m589.513-114.576c-385.204-3.858-513.6486 13.041-529.7201 21.9726-24.5869 30.4532-69.28023 104.5755-51.35802 157.4391 17.92222 52.8633 571.48912 24.8594 846.03212 4.2493 72.184-59.61302 120.251-179.804-264.954-183.661z"
+                    fill="url(#k)" />
+            </g>
+            <g filter="url(#d)">
+                <path
+                    d="m149.169 334.023c-132.295-320.4611 170.408-360.3435 338.296-340.22711-24.084-34.20209 29.311-61.31639 435.573 103.84291 406.262 165.1592 312.792 457.3062 215.282 582.7352-274.594 18.076-856.856-25.889-989.151-346.351z"
+                    fill="url(#l)" />
+            </g>
+            <g filter="url(#e)">
+                <path
+                    d="m212.19 625.099c-289.4333-156.778-427.394-99.583-460.195-51.389-27.708-19.127-72.826-16.87-31.638 145.182 41.189 162.051 373.4222 253.53 534.39 279.012 106.412-58.944 246.877-216.026-42.557-372.805z"
+                    fill="url(#m)" />
+            </g>
+            <g filter="url(#f)">
+                <path
+                    d="m1260.46 553.439c-263.25 209.417-331.711 301.922-333.036 321.997 15.807 51.647 64.474 168.924 132.686 224.874 68.21 55.95 410.88-286.826 573.68-465.21-14.76-114.477-110.09-291.078-373.33-81.661z"
+                    fill="url(#n)" />
+            </g>
+            <g filter="url(#g)">
+                <path
+                    d="m320.107 691.231c-330.6757 47.15-405.4447 172.542-401.4947 229.344-34.2423 1.3-69.0243 29.477 65.7927 131.785 134.817 102.3 458.822-20.85 603.973-95.211 48.358-108.285 62.406-313.069-268.271-265.918z"
+                    fill="#b89ffa" />
+            </g>
+            <g filter="url(#h)">
+                <path
+                    d="m412.656 632.15c-305.636-8.731-407.41951 11.928-420.10658 23.349-19.28982 39.233-54.22082 134.873-39.62602 203.564 14.5949 68.692 453.5766 37.757 671.2436 13.703 56.844-76.567 94.124-231.884-211.511-240.616z"
+                    fill="#ffe196" />
+            </g>
+            <g filter="url(#i)">
+                <path
+                    d="m204.412 787.064c-219.8166-63.897 104.105-105.938 293.542-118.971-34.428-5.756 18.061-18.061 503.446-21.238 485.38-3.178 450.17 77.938 371.89 118.893-298.04 33.729-949.061 85.214-1168.878 21.316z"
+                    fill="#fa9fdd" />
+            </g>
+        </g>
+    </g>
+</svg>

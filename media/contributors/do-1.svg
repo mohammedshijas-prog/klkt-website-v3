@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 650" width="650" height="650" font-family="Geist, -apple-system, 'SF Pro Text', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#efe7ff"/><stop offset="1" stop-color="#c9b6fb"/></linearGradient>
+<filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#2a1a5e" flood-opacity=".18"/></filter></defs>
+<rect width="650" height="650" rx="40" fill="url(#g)"/>
+<g filter="url(#sh)"><rect x="125" y="205" width="400" height="240" rx="28" fill="#fff"/></g>
+<rect x="161" y="241" width="64" height="64" rx="18" fill="#f1ebff"/>
+<g transform="translate(173 253) scale(1.67)" fill="none" stroke="#7a3cf5" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M5 7h1a2 2 0 0 0 2-2 1 1 0 0 1 1-1h6a1 1 0 0 1 1 1 2 2 0 0 0 2 2h1a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2"/><circle cx="12" cy="13" r="3"/></g>
+<text x="161" y="365" font-size="30" font-weight="700" fill="#0b1215">Record an activity</text>
+<text x="161" y="404" font-size="20" fill="#6b7280">Cooking · cleaning · fixing</text></svg>

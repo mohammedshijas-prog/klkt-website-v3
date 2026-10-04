@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 520" width="768" height="520" font-family="Geist, -apple-system, 'SF Pro Text', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"><defs><filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#2a1a5e" flood-opacity=".16"/></filter></defs><g filter="url(#sh)"><rect x="174" y="110" width="420" height="300" rx="26" fill="#fff"/></g>
+<text x="206" y="166" font-size="24" font-weight="700" fill="#0b1215">Tasks open in your country</text>
+<line x1="206" y1="192" x2="562" y2="192" stroke="#eef0f3" stroke-width="2"/>
+<text x="206" y="244" font-size="19" fill="#0b1215">Record an activity</text><rect x="496" y="220" width="66" height="32" rx="16" fill="#dcfce7"/><text x="529.0" y="241" font-size="15" font-weight="600" fill="#15803d" text-anchor="middle">Open</text>
+<line x1="206" y1="268" x2="562" y2="268" stroke="#f3f4f6" stroke-width="1.5"/>
+<text x="206" y="312" font-size="19" fill="#0b1215">Photograph pages</text><rect x="496" y="288" width="66" height="32" rx="16" fill="#dcfce7"/><text x="529.0" y="309" font-size="15" font-weight="600" fill="#15803d" text-anchor="middle">Open</text>
+<line x1="206" y1="340" x2="562" y2="340" stroke="#eef0f3" stroke-width="2"/>
+<text x="206" y="378" font-size="16" font-weight="600" fill="#7a3cf5">More task types over time</text></svg>

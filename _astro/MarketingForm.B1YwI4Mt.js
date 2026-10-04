@@ -1,0 +1,1 @@
+import{n as e}from"./clsx._m4V3ZML.js";import{t}from"./MarketoForm.DG59hl2P.js";import{t as n}from"./PayloadForm.DD8fv-Sl.js";var r=e(),i=e=>e.source===`payload`?(0,r.jsx)(n,{...e}):(0,r.jsx)(t,{...e});export{i as MarketingForm};

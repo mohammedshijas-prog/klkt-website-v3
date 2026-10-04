@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 520" width="768" height="520" font-family="Geist, -apple-system, 'SF Pro Text', 'Segoe UI', Roboto, 'Geeza Pro', Helvetica, Arial, sans-serif">
+<!-- Example values for illustration. -->
+<defs><filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#2a1a5e" flood-opacity=".16"/></filter></defs><g filter="url(#sh)"><rect x="194" y="70" width="380" height="380" rx="26" fill="#fff"/></g>
+<rect x="226" y="102" width="316" height="44" rx="22" fill="#f3f4f6"/>
+<rect x="230" y="106" width="154" height="36" rx="18" fill="#fff" stroke="#e5e7eb"/>
+<text x="307" y="130" font-size="16" font-weight="600" fill="#0b1215" text-anchor="middle">English</text>
+<text x="463" y="130" font-size="16" font-weight="500" fill="#6b7280" text-anchor="middle">العربية</text>
+<text x="226" y="194" font-size="24" font-weight="700" fill="#0b1215">Before you start</text>
+<text x="226" y="222" font-size="16" fill="#6b7280">Read what is recorded and how you are paid.</text>
+<rect x="226" y="254" width="28" height="28" rx="7" fill="#7a3cf5"/><g transform="translate(240 268)"><path d="M-6 0l4 4 8-8" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g><text x="268" y="274" font-size="18" fill="#0b1215">I agree to be recorded</text>
+<rect x="226" y="302" width="28" height="28" rx="7" fill="#7a3cf5"/><g transform="translate(240 316)"><path d="M-6 0l4 4 8-8" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g><text x="268" y="322" font-size="18" fill="#0b1215">I understand how I am paid</text>
+<rect x="226" y="366" width="316" height="52" rx="12" fill="#0b1215"/><text x="384.0" y="398.0" font-size="18" font-weight="600" fill="#fff" text-anchor="middle">Agree and start</text></svg>

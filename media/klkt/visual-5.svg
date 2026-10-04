@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 650" width="650" height="650" font-family="Geist, -apple-system, 'SF Pro Text', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#efe7ff"/><stop offset="1" stop-color="#dcd0ff"/></linearGradient>
+<filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#2a1a5e" flood-opacity=".12"/></filter></defs>
+<rect width="650" height="650" fill="url(#bg)"/>
+<g filter="url(#sh)"><rect x="80" y="80" width="490" height="490" rx="28" fill="#f7f5fc"/></g>
+<rect x="80" y="80" width="490" height="490" rx="28" fill="none" stroke="#b9a6ef" stroke-width="2" stroke-dasharray="10 8"/>
+<g transform="translate(289 250)" fill="none" stroke="#7a3cf5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="0" y="10" width="72" height="54" rx="10"/><path d="M22 10l6-10h16l6 10"/><circle cx="36" cy="37" r="14"/></g>
+<text x="325" y="360" font-size="19" font-weight="400" fill="#4b5563" text-anchor="middle">Photo: person with their phone</text><text x="325" y="388" font-size="19" font-weight="400" fill="#4b5563" text-anchor="middle">on a head strap</text>
+<text x="325" y="430" font-size="14" fill="#8b8fa3" text-anchor="middle">Placeholder · final photo from marketing</text></svg>

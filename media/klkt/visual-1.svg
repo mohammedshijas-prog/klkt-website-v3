@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 650" width="650" height="650" font-family="Geist, -apple-system, 'SF Pro Text', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#efe7ff"/><stop offset="1" stop-color="#dcd0ff"/></linearGradient>
+<filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#2a1a5e" flood-opacity=".12"/></filter></defs>
+<rect width="650" height="650" fill="url(#bg)"/>
+<g filter="url(#sh)">
+ <rect x="250" y="70" width="330" height="58" rx="22" fill="#7a3cf5"/>
+ <rect x="70" y="160" width="430" height="150" rx="22" fill="#fff"/>
+ <rect x="70" y="350" width="510" height="200" rx="24" fill="#fff"/>
+</g>
+<text x="415" y="106" font-size="19" fill="#fff" text-anchor="middle">What should I record next?</text>
+<circle cx="102" cy="194" r="16" fill="#7a3cf5"/><text x="102" y="200" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">N</text>
+<text x="128" y="200" font-size="15" font-weight="600" fill="#6b7280">Noor</text>
+<text x="96" y="236" font-size="18" font-weight="400" fill="#0b1215" text-anchor="start">Next: restock the shelves in aisle 4.</text><text x="96" y="262" font-size="18" font-weight="400" fill="#0b1215" text-anchor="start">Keep both hands in view and face the</text><text x="96" y="288" font-size="18" font-weight="400" fill="#0b1215" text-anchor="start">shelf while you work.</text>
+<text x="102" y="398" font-size="14" font-weight="600" fill="#7a3cf5" letter-spacing="1">TASK 5 OF 6</text>
+<text x="102" y="434" font-size="26" font-weight="700" fill="#0b1215">Restock shelves</text>
+<text x="102" y="464" font-size="17" fill="#6b7280">Aisle 4 · task 5 of 6</text>
+<rect x="430" y="384" width="118" height="10" rx="5" fill="#ece6fb"/><rect x="430" y="384" width="98" height="10" rx="5" fill="#7a3cf5"/>
+<rect x="102" y="482" width="446" height="52" rx="12" fill="#0b1215"/><text x="325.0" y="514.0" font-size="17" font-weight="600" fill="#fff" text-anchor="middle">Start task</text></svg>

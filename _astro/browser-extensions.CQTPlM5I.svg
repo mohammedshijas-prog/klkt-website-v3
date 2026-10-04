@@ -1,0 +1,70 @@
+<svg width="1392" height="694" viewBox="0 0 1392 694" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#clip0_5140_4157)">
+        <rect width="1392" height="694" fill="#F4F9FF" />
+        <mask id="mask0_5140_4157" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-24" y="-192" width="1440"
+            height="1123">
+            <rect x="-24" y="-192" width="1440" height="1123" fill="#F6F5F3" />
+        </mask>
+        <g mask="url(#mask0_5140_4157)">
+            <rect x="-34.5469" y="-216.983" width="1503.86" height="1172.8" fill="#EAE3FA" />
+            <g filter="url(#filter0_f_5140_4157)">
+                <path
+                    d="M1579.74 -311.629L-100.769 224.852L-44.4546 458.833L579.244 369.33L1565.72 163.854L1579.74 -311.629Z"
+                    fill="url(#paint0_linear_5140_4157)" />
+            </g>
+            <g filter="url(#filter1_f_5140_4157)">
+                <path d="M1635.65 -18.7219L-117.935 432.892L-243.611 -76.4769L1458.13 -296.272L1635.65 -18.7219Z"
+                    fill="#EDF5FF" />
+            </g>
+            <g filter="url(#filter2_f_5140_4157)">
+                <ellipse cx="696.5" cy="452" rx="840.5" ry="320" fill="white" />
+            </g>
+            <g filter="url(#filter3_f_5140_4157)">
+                <ellipse cx="704.5" cy="728.5" rx="499.5" ry="70.5" fill="#EDF5FF" />
+            </g>
+            <g filter="url(#filter4_f_5140_4157)">
+                <ellipse cx="1130.5" cy="0.5" rx="422.5" ry="70.5" fill="#EDF5FF" />
+            </g>
+        </g>
+    </g>
+    <defs>
+        <filter id="filter0_f_5140_4157" x="-250.769" y="-461.629" width="1980.51" height="1070.46"
+            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feGaussianBlur stdDeviation="75" result="effect1_foregroundBlur_5140_4157" />
+        </filter>
+        <filter id="filter1_f_5140_4157" x="-493.611" y="-546.272" width="2379.26" height="1229.16"
+            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feGaussianBlur stdDeviation="125" result="effect1_foregroundBlur_5140_4157" />
+        </filter>
+        <filter id="filter2_f_5140_4157" x="-294" y="-18" width="1981" height="940" filterUnits="userSpaceOnUse"
+            color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feGaussianBlur stdDeviation="75" result="effect1_foregroundBlur_5140_4157" />
+        </filter>
+        <filter id="filter3_f_5140_4157" x="105" y="558" width="1199" height="341" filterUnits="userSpaceOnUse"
+            color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feGaussianBlur stdDeviation="50" result="effect1_foregroundBlur_5140_4157" />
+        </filter>
+        <filter id="filter4_f_5140_4157" x="608" y="-170" width="1045" height="341" filterUnits="userSpaceOnUse"
+            color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feGaussianBlur stdDeviation="50" result="effect1_foregroundBlur_5140_4157" />
+        </filter>
+        <linearGradient id="paint0_linear_5140_4157" x1="893.593" y1="68.5064" x2="1146.6" y2="173.695"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FCE0E7" />
+            <stop offset="1" stop-color="#EAE3FA" />
+        </linearGradient>
+        <clipPath id="clip0_5140_4157">
+            <rect width="1392" height="694" fill="white" />
+        </clipPath>
+    </defs>
+</svg>
