@@ -1,2 +1,4 @@
 .DS_Store
 *.before-*.html
+media/**/*.orig.mp4
+media/*.orig.mp4

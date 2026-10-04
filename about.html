@@ -5000,4 +5000,41 @@ document.querySelector("head").appendChild(script);</script><style id="klkt-no-c
 .klkt-store:hover { background: #6a2fe0 !important; }
 footer[data-section-container] .bg-surface-bg-primary { background-color: #2b1466 !important; }
 </style>
+<style id="klkt-mobile">
+@media (max-width: 767px) {
+  /* Tighter vertical rhythm on phones */
+  :root { --spacing-section-default: 40px; --spacing-section-large: 40px; --spacing-section-medium: 32px; --spacing-gap-4xl: 32px; --spacing-gap-3xl: 28px; }
+  /* Full-screen heroes (Business, About): size to content instead of the viewport */
+  section[data-section-container="true"][style*="min-height"] { min-height: 0 !important; }
+  section[data-section-container="true"][style*="min-height"] > div > div.z-10 { padding-block: 64px !important; }
+  /* Icon cards: no fixed minimum height, tighter padding */
+  .min-h-icon-card { min-height: 0 !important; }
+  .group\/card.p-lg { padding: 20px !important; }
+  /* Home: feature switchbacks */
+  astro-island[component-export="StickyCarouselIsland"] div.py-4xl { padding-block: 18px !important; }
+  astro-island[component-export="StickyCarouselIsland"] .aspect-square { max-width: 82%; margin-inline: auto; }
+  /* Home: logo cluster */
+  .xv40hG_tileContainer { zoom: .8; }
+  /* Contributors */
+  .klkt-fv { height: auto !important; min-height: 0; padding: 18px 0; }
+  #what-you-can-do .aspect-square { aspect-ratio: 4 / 3 !important; }
+  .klkt-accept { gap: 28px; }
+  .klkt-accept__visual { max-width: 80% !important; }
+  .klkt-accept__content h2 { margin-bottom: 20px; }
+  .klkt-accept__list { gap: 18px; }
+  .klkt-accept__title { font-size: 21px; }
+  .klkt-how__track { gap: 22px; }
+  .klkt-how__caption { font-size: 17px; }
+  .klkt-calc__value { font-size: 56px; }
+  .klkt-calc__result { padding: 28px 24px; }
+  .klkt-calc__inputs { gap: 22px; }
+  .klkt-tabs__inner { padding: 32px 12px !important; }
+  /* Business */
+  .klkt-roles2__list li { padding: 12px 0; }
+  .klkt-start2 { gap: 36px !important; }
+  .klkt-start2__row { gap: 20px; }
+  /* Lab / About */
+  section[id="[About]-Blurb"] .my-8 { margin-block: 8px; }
+}
+</style>
 </body></html>
