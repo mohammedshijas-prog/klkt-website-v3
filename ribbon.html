@@ -5524,7 +5524,7 @@ const productionHostnames = ["calendly.com","www.calendly.com"];
     <div class="robo-cam__stage">
       <img class="robo-cam__shot" src="/media/klkt/sense-unit-v2.webp" alt="The Roboband headband opened to show the camera lens, circuit boards and sensors inside" width="1024" height="438">
       <div class="robo-cam__view">
-        <video src="/media/roboband-sample.mp4?v=2" poster="/media/roboband-sample-poster.jpg?v=2" muted playsinline loop autoplay preload="metadata" aria-label="First-person sample footage of hands at work, recorded by one Roboband camera"></video>
+        <video data-src="/media/roboband-sample.mp4?v=3" poster="/media/roboband-sample-poster.jpg?v=2" muted playsinline loop preload="none" aria-label="First-person sample footage of hands at work, recorded by one Roboband camera"></video>
         <div class="robo-cam__labels" aria-hidden="true">
           <span><span class="robo-cam__rec">●</span> REC · Camera 1 of 8</span>
           <span>30 FPS · 90°</span>
@@ -5562,7 +5562,7 @@ const productionHostnames = ["calendly.com","www.calendly.com"];
   var video = section.querySelector('video');
   var reduce = window.matchMedia('(prefers-reduced-motion: reduce)');
   var ticking = false;
-  var playing = null;
+  var playing = false;
   // Lens glass, measured on the sense-unit image.
   var LENS_X = 0.4922;
   var LENS_Y = 0.5559;
@@ -5574,11 +5574,14 @@ const productionHostnames = ["calendly.com","www.calendly.com"];
   function sync(vh) {
     if (!video) return;
     var r = section.getBoundingClientRect();
+    if (!video.src && r.top < vh * 2.5) video.src = video.getAttribute('data-src');
     var visible = r.bottom > -vh * 0.1 && r.top < vh * 1.1;
-    if (visible === playing) return;
-    playing = visible;
-    if (visible) { var pr = video.play(); if (pr && pr.catch) pr.catch(function () {}); }
-    else video.pause();
+    if (visible && video.paused && !playing) {
+      playing = true;
+      var pr = video.play();
+      if (pr && pr.then) pr.then(function () { playing = false; }, function () { playing = false; });
+      else playing = false;
+    } else if (!visible && !video.paused) video.pause();
   }
 
   function update() {
@@ -5624,6 +5627,7 @@ const productionHostnames = ["calendly.com","www.calendly.com"];
   }
   function request() { if (!ticking) { ticking = true; window.requestAnimationFrame(update); } }
 
+  if (video) video.addEventListener('canplay', request);
   document.addEventListener('scroll', request, { passive: true, capture: true });
   window.addEventListener('resize', request);
   update();
@@ -5707,6 +5711,7 @@ const productionHostnames = ["calendly.com","www.calendly.com"];
     var rect = section.getBoundingClientRect();
     var span = Math.max(1, rect.height - vh);
     var q = Math.min(1, Math.max(0, -rect.top / span));
+    if (video && !loaded && rect.top < vh * 2.5) load();
     // Scroll stages while pinned: open the headband, hold it open, close it again, then shrink the box.
     if (q < 0.4) target = q / 0.4;
     else if (q < 0.5) target = 1;
@@ -5725,10 +5730,10 @@ const productionHostnames = ["calendly.com","www.calendly.com"];
   function request() {
     if (!ticking) { ticking = true; window.requestAnimationFrame(update); }
   }
-  if (video) {
+  var loaded = false;
+  function load() {
+    loaded = true;
     var src = video.getAttribute('data-src');
-    video.addEventListener('loadedmetadata', request);
-    video.addEventListener('play', function () { video.pause(); });
     // Seeking needs a fully seekable source; a blob URL works even when the server ignores Range requests.
     fetch(src).then(function (r) {
       if (!r.ok) throw new Error(r.status);
@@ -5738,6 +5743,10 @@ const productionHostnames = ["calendly.com","www.calendly.com"];
     }).catch(function () {
       video.src = src;
     });
+  }
+  if (video) {
+    video.addEventListener('loadedmetadata', request);
+    video.addEventListener('play', function () { video.pause(); });
   }
   document.addEventListener('scroll', request, { passive: true, capture: true });
   window.addEventListener('resize', request);
