@@ -5656,7 +5656,9 @@ const productionHostnames = ["calendly.com","www.calendly.com"];
     var box = img.parentElement; if (!box) return;
     img.classList.remove('klkt-rise', 'is-in');
     if (!isDisplayed(img)) { dropAct(box); return; }
-    img.alt = ''; img.setAttribute('aria-hidden', 'true'); img.style.opacity = '0';
+    // Only write when needed: the MutationObserver watches alt, so an unconditional write re-triggers apply() forever
+    if (img.getAttribute('alt') !== '') img.alt = '';
+    img.setAttribute('aria-hidden', 'true'); img.style.opacity = '0';
     if (box.getAttribute('data-klkt-visual') === 'act' && box.querySelector(':scope > .klkt-act')) return;
     box.querySelectorAll(':scope > .klkt-pages, :scope > .klkt-more, :scope > .klkt-act').forEach(function (n) { n.remove(); });
     box.setAttribute('data-klkt-visual', 'act');
