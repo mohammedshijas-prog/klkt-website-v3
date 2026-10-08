@@ -1,0 +1,131 @@
+{
+  "posts": [
+    {
+      "slug": "paid-when-the-work-is-accepted",
+      "title": "Paid when the work is accepted",
+      "date": "2026-10-01",
+      "author": "KLKT",
+      "topic": "Contributors",
+      "excerpt": "A task pays when a person reviews it and accepts it. Joining is free, and KLKT never asks you to pay to start, to work, or to cash out.",
+      "image": "/media/klkt/ways-work-bg.webp",
+      "imageAlt": "Someone working through a task on their phone",
+      "tags": ["Getting paid", "How it works"],
+      "published": true,
+      "body": [
+        { "p": "KLKT pays for everyday tasks that are accepted. You photograph pages or record an activity on your phone, at your job or at home. A person reviews what you send. Accepted work is paid." },
+        { "h2": "What you are paid for" },
+        { "p": "Every task tells you what it needs before you start. Some start with a short test task, so you can see that your setup works. You are paid for the tasks that are accepted, not for time spent waiting." },
+        { "h2": "How you get the money" },
+        { "p": "Payouts go out by the methods shown in the app, including PayPal and bank transfer. KLKT is free to join. We never ask you to pay to join, to work, or to cash out. If someone asks you for money in our name, it is not us." },
+        { "h2": "Who runs KLKT" },
+        { "p": "KLKT is run by CNTXT AI (CNTXT FZCO), a data and AI company in Abu Dhabi, as part of CNTXT AI Robotics." }
+      ]
+    },
+    {
+      "slug": "what-a-clear-recording-looks-like",
+      "title": "What a clear recording looks like",
+      "date": "2026-09-18",
+      "author": "KLKT",
+      "topic": "How it works",
+      "excerpt": "For video, the phone sits on a head strap, sideways, with both hands in view for the whole task. For pages, each photo should show the page clearly.",
+      "image": "/media/klkt/guide-hands.webp",
+      "imageAlt": "Hands in frame during a recording",
+      "tags": ["Recording", "Tasks"],
+      "published": true,
+      "body": [
+        { "p": "A task is easier to accept when the recording shows the work the way the task asks. The app tells you which kind of submission it needs before you start." },
+        { "h2": "Recording an activity" },
+        { "ul": [
+          "Put the phone on the head strap, sideways, at eye level.",
+          "Keep both hands in view.",
+          "Record the whole task, from the start through to the end."
+        ] },
+        { "h2": "Photographing pages" },
+        { "p": "Take a clear photo of each page. The page should fill the frame, and the writing or print should be readable. If a page is missing or blurred, the task cannot be reviewed properly." },
+        { "h2": "Before you send it" },
+        { "p": "Check the task again. It says what has to be in the frame. You agree to be recorded in the app, in your language, before you start." }
+      ]
+    },
+    {
+      "slug": "tasks-at-work-and-at-home",
+      "title": "Tasks at work and at home",
+      "date": "2026-09-04",
+      "author": "KLKT",
+      "topic": "Contributors",
+      "excerpt": "The same app covers work you already do on a shift and short tasks you can finish at home.",
+      "image": "/media/klkt/ways-home-bg.webp",
+      "imageAlt": "A task recorded at home",
+      "tags": ["Tasks", "At home"],
+      "published": true,
+      "body": [
+        { "p": "KLKT tasks follow work people already do. Some happen on a shift. Others are short recordings or page photos you can finish at home." },
+        { "h2": "What the task tells you first" },
+        { "p": "Each task says what it needs before you start: a video of an activity, or photos of pages. It also says what has to be in the frame." },
+        { "p": "You choose a task you can do with the setup you have. If a task needs the head strap, the app says so before you begin." }
+      ]
+    },
+    {
+      "slug": "what-a-business-gets",
+      "title": "What a business gets",
+      "date": "2026-08-21",
+      "author": "KLKT",
+      "topic": "Business",
+      "excerpt": "People who already work with you can record everyday tasks. There is no extra cost and no extra work for managers.",
+      "image": "/media/klkt/job-reel-bg.webp",
+      "imageAlt": "Work recorded on a shift",
+      "tags": ["Business", "Tasks"],
+      "published": true,
+      "body": [
+        { "p": "A business can let people who already work there take KLKT tasks. The recording happens in the work they are already doing." },
+        { "h2": "No extra process for managers" },
+        { "p": "Managers do not have to assign tasks, review footage, or run a new tool. People use the KLKT app on their own phones." },
+        { "p": "Accepted work is paid to the person who did it. Joining stays free." }
+      ]
+    },
+    {
+      "slug": "the-klkt-band",
+      "title": "The KLKT Band keeps the phone in place",
+      "date": "2026-08-06",
+      "author": "KLKT",
+      "topic": "KLKT Band",
+      "excerpt": "For activity tasks, the phone sits on a head strap, sideways, so both hands stay in view.",
+      "image": "/media/klkt/guide-app.webp",
+      "imageAlt": "The phone held for a KLKT recording",
+      "tags": ["Recording", "KLKT Band"],
+      "published": true,
+      "body": [
+        { "p": "Activity tasks need both hands in the frame for the whole recording. The KLKT Band holds the phone at eye level so you can work with your hands free." },
+        { "h2": "How to set it" },
+        { "ul": [
+          "Put the phone on the head strap, sideways.",
+          "Keep it at eye level.",
+          "Check that both hands stay in view from the start of the task to the end."
+        ] },
+        { "p": "Page tasks do not need the strap. Those are photos of each page, clear enough to read." }
+      ]
+    },
+    {
+      "slug": "before-you-send-it",
+      "title": "Before you send a recording",
+      "date": "2026-07-16",
+      "author": "KLKT",
+      "topic": "How it works",
+      "excerpt": "A short check before you submit makes a task easier to accept.",
+      "image": "/media/close-kitchen.webp",
+      "imageAlt": "A close view of a task being recorded",
+      "tags": ["Recording", "Review"],
+      "published": true,
+      "body": [
+        { "p": "A person reviews what you send. The task is easier to accept when the recording matches what the task asked for." },
+        { "h2": "Check these before you submit" },
+        { "ul": [
+          "The whole task is in the recording, from the start through to the end.",
+          "For video, both hands stay in view.",
+          "For pages, each page is clear and readable.",
+          "You agreed to be recorded in the app before you started."
+        ] },
+        { "p": "If a page is missing or the hands leave the frame, the task cannot be reviewed properly." }
+      ]
+    }
+  ]
+}

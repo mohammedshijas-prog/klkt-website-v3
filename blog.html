@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32">
+  <link rel="icon" href="/favicon.png" type="image/png" sizes="512x512">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blog | KLKT by CNTXT AI</title>
+  <meta name="description" content="Notes from KLKT on getting paid for accepted tasks, and how to record work clearly.">
+  <link rel="stylesheet" href="/_astro/layouts.DsStj0DX.css">
+  <link rel="stylesheet" href="/blog.css">
+</head>
+<body>
+<header class="klkt-header" id="site-header">
+  <div class="klkt-header__inner">
+    <a href="/" class="klkt-brand" aria-label="KLKT by CNTXT AI">
+      <img src="/media/klkt-logo.png" alt="KLKT" width="127" height="24">
+      <span class="klkt-brand__by">by CNTXT AI</span>
+    </a>
+    <nav class="klkt-nav" aria-label="Main">
+      <a href="/">Home</a>
+      <a href="/contributors.html">Contributors</a>
+      <a href="/Business.html">Business</a>
+      <a href="/ribbon.html">KLKT Band</a>
+      <a href="/lab.html">Lab</a>
+      <a href="/about.html">About</a>
+      <a href="/blog.html" aria-current="page">Blog</a>
+    </nav>
+    <div class="klkt-getapp">
+      <button type="button" class="klkt-getapp__btn" aria-expanded="false">Get the app
+        <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M4 6l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <div class="klkt-getapp__menu">
+        <a class="klkt-store" href="/#app-store"><span><small>Download on the</small>App Store</span></a>
+        <a class="klkt-store" href="/#google-play"><span><small>Get it on</small>Google Play</span></a>
+      </div>
+    </div>
+    <button type="button" class="klkt-menu-btn" aria-label="Open menu" aria-expanded="false" aria-controls="klkt-mnav">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+  </div>
+  <nav id="klkt-mnav" class="klkt-mnav" aria-label="Main" hidden>
+    <a href="/">Home</a>
+    <a href="/contributors.html">Contributors</a>
+    <a href="/Business.html">Business</a>
+    <a href="/ribbon.html">KLKT Band</a>
+    <a href="/lab.html">Lab</a>
+    <a href="/about.html">About</a>
+    <a href="/blog.html" aria-current="page">Blog</a>
+  </nav>
+</header>
+  <nav class="blog-nav" aria-label="Blog" data-blog-nav>
+    <div class="blog-nav__inner">
+      <div class="blog-nav__topics" data-blog-topics></div>
+    </div>
+  </nav>
+  <main class="blog">
+    <header class="blog-hero">
+      <h1>KLKT Blog</h1>
+      <p>How tasks are paid, how to record work so it can be accepted, and what changes for people and businesses using KLKT.</p>
+    </header>
+    <div data-blog="index"><p class="blog__status">Loading posts…</p></div>
+  </main>
+<footer class="blog-foot">© 2026 CNTXT FZCO · <a href="/">KLKT</a></footer>
+<script src="/blog.js"></script>
+<script>
+(function () {
+  var btn = document.querySelector('.klkt-menu-btn');
+  var menu = document.getElementById('klkt-mnav');
+  if (!btn || !menu) return;
+  btn.addEventListener('click', function () {
+    var open = menu.hidden;
+    menu.hidden = !open;
+    btn.setAttribute('aria-expanded', String(open));
+    btn.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+  });
+})();
+</script>
+</body>
+</html>
